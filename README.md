@@ -3,6 +3,7 @@ This code is for classify single cell data to cell cycle stages from CellProfile
 
 After download this code, please run as following:
 1. cycif_clustering_cc_from_cellprofiler_output.m file
-2. cycif_plot_bargraph_obj_number.m file
+2. cycif_plot_cellcycle_graph.m file
+3. cycif_plot_bargraph_obj_number.m file
 
 Please note that it needed to edit some input variables (fpath, fname, etc.) in order to work properly.
